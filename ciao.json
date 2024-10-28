@@ -1,0 +1,16 @@
+{
+    "nome": "Mario",
+    "cognome": "Rossi",
+    "eta": 30,
+    "città": "Roma",
+    "interessi": [
+      "calcio",
+      "musica",
+      "lettura"
+    ],
+    "iscrizioni": {
+      "università": "Università di Roma",
+      "anno": 2021
+    }
+  }
+  
